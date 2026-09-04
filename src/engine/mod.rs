@@ -1,3 +1,3 @@
 pub mod game;
-pub mod sand;
 pub mod global_const;
+pub mod sand;
